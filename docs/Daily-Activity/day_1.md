@@ -63,7 +63,7 @@ Uploaded my MkDocs project – Used Git commands in the Git Bash terminal to pus
 
 
 - GitHub repository link  
-https://github.com/mugabiyimana/fablab12
+https://github.com/mugabiyimana
 
 - Live GitHub Pages URL  
 https://github.com/mugabiyimana
